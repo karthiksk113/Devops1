@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the main branch updated
+=======
+This is the feature branch
+>>>>>>> feature
